@@ -23,10 +23,6 @@ Languages: ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Jav
 
 Tools & Technologies: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) 
 
-## 📈 Stats
-
-![Melike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikeYigit&show_icons=true)
-
 ## 📫 How to Reach Me
 
 * 📧 Email: melike.yigit.tr@gmail.com
