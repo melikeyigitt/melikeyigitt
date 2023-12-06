@@ -20,21 +20,20 @@ I'm a dedicated Computer Science student at Queen Mary University of London, wit
 
 Languages: ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-Tools & Technologies: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+Tools & Technologies: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) 
 
 ## 📈 Stats
 
-![MelikeYigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikeYigit&show_icons=true)
+![Melike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikeYigit&show_icons=true)
 
 ## 📫 How to Reach Me
 
-* 📧 Email: [Your Professional Email]
-* 💼 LinkedIn: [Your LinkedIn Profile]
-* 🌐 Website/Portfolio: [If you have one]
+* 📧 Email: melike.yigit.tr@gmail.com
+* 💼 LinkedIn: linkedin.com/in/melike-yigit/
 
 ## 😄 Random Fact
 
 I find the parallels between the precision of programming and the discipline of swimming fascinating - both require dedication, attention to detail, and a constant pursuit of improvement.
 
 ---
-⭐️ From [MelikeYigit](https://github.com/MelikeYigit)
+⭐️ From [melikeyigitt](https://github.com/melikeyigitt)
