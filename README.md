@@ -1,4 +1,4 @@
-# Hello, I'm Melike Yigit! 👋
+# Hello, I'm Melike! 👋
 
 ## 🚀 About Me
 
