@@ -4,10 +4,10 @@
 
 I'm a dedicated Computer Science student at Queen Mary University of London, with a passion for software development and a knack for problem-solving. My journey in tech began with my role as an IT Technician at Global Banking School, where I honed my technical skills and learned the importance of practical, real-world applications of technology.
 
-👩‍💻 Currently working on enhancing my skills in Java and Python
-🧠 Expanding my knowledge in Algorithms and Databases
-🤝 Looking to collaborate on innovative open-source projects
-🌱 Focusing on building efficient and user-friendly software solutions
+- 👩‍💻 Currently working on enhancing my skills in Java and Python
+- 🧠 Expanding my knowledge in Algorithms and Databases
+- 🤝 Looking to collaborate on innovative open-source projects
+- 🌱 Focusing on building efficient and user-friendly software solutions
 
 ## 🎨 Interests
 
